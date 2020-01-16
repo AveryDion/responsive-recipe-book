@@ -71,6 +71,12 @@ h1 {
   font-style: normal;
 }
 
+.subtitle {
+  font-family: wreath, serif;
+  font-style: normal;
+  color: #9e2022;
+}
+
 .title a:visited {
   color: #9e2022;
 }
@@ -123,4 +129,13 @@ footer {
 
 .card:hover .img-flex {
   filter: brightness(80%);
+}
+
+.number {
+  font-family: wreath, serif;
+  font-style: normal;
+  color: #9e2022;
+  font-size: 150%;
+  margin-left: -3%;
+  margin-right: 1%;
 }
