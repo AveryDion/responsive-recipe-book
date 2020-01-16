@@ -100,7 +100,7 @@ h1 {
 }
 
 html {
-  border-left: 40px solid #9e2022;
+  border-left: 35px solid #9e2022;
   min-height: 100%;
   font-family: adobe-caslon-pro, serif;
   font-style: normal;
@@ -136,10 +136,14 @@ footer {
   font-style: normal;
   color: #9e2022;
   font-size: 150%;
-  margin-left: -3%;
+  margin-left: -6%;
   margin-right: 1%;
 }
 
 .indent {
   text-indent: 19px;
+}
+
+.red {
+  color: #9e2022;
 }
